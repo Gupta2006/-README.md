@@ -132,6 +132,7 @@ Beyond the README, the project leverages GitHub Issues to streamline workflow an
 </body>
 </html>
 
-```Output
+```
+Output
 ![Screenshot](assets/screenshot.png)
 
