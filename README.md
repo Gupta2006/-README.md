@@ -132,3 +132,6 @@ Beyond the README, the project leverages GitHub Issues to streamline workflow an
 </body>
 </html>
 
+```Out[ut
+![Screenshot of HTML output]("C:\Users\HP VICTUS\OneDrive\Pictures\Screenshots\Screenshot 2025-03-18 102325.png")
+
