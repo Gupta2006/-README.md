@@ -5,7 +5,7 @@ This project is designed to showcase effective project documentation and task ma
 Beyond the README, the project leverages GitHub Issues to streamline workflow and track improvements. By creating and categorizing issues, team members can easily monitor bug fixes, enhancements, and other tasks, ensuring a transparent and organized development process. Overall, this project serves as a practical example of using GitHub's tools to manage a collaborative software development effort efficiently.
 
 
-
+'''html
 <!DOCTYPE html>
 <html lang="en">
 <head>
