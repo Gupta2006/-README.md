@@ -3,6 +3,9 @@
  📌 Description
 This project is designed to showcase effective project documentation and task management using GitHub. It features a well-structured README file that not only explains the project's purpose and key features but also includes a demo of basic HTML and CSS code to illustrate the design and functionality of the user interface. Additionally, the project demonstrates best practices for collaboration by incorporating detailed contribution guidelines and instructions on how to clone, build, and run the project locally.
 Beyond the README, the project leverages GitHub Issues to streamline workflow and track improvements. By creating and categorizing issues, team members can easily monitor bug fixes, enhancements, and other tasks, ensuring a transparent and organized development process. Overall, this project serves as a practical example of using GitHub's tools to manage a collaborative software development effort efficiently.
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
